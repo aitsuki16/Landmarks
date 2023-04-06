@@ -41,6 +41,7 @@ struct ContentView: View {
                     .font(.title2)
                 
                 Text("Descriptive text goes here.")
+                .foregroundColor(.secondary)
                 
             }
             .padding()
